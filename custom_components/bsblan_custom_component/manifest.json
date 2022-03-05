@@ -1,0 +1,10 @@
+{
+  "domain": "bsblan_custom_component",
+  "name": "BSBLAN custom component",
+  "documentation": "https://github.com/liudger/bsblan-custom-component",
+  "issue_tracker": "https://github.com/liudger/bsblan-custom-component/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@liudger"],
+  "requirements": []
+}

@@ -1,0 +1,10 @@
+{
+  "_template": "gh:oncleben31/cookiecutter-homeassistant-custom-component",
+  "class_name_prefix": "BSBLAN",
+  "domain_name": "bsblan_custom_component",
+  "friendly_name": "BSBLAN custom component",
+  "github_user": "liudger",
+  "project_name": "bsblan-custom-component",
+  "test_suite": "yes",
+  "version": "0.0.0"
+}
